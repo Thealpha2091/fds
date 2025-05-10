@@ -1,0 +1,5 @@
+discord.py
+requests
+qrcode
+pillow
+python-dotenv
